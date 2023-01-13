@@ -1,8 +1,8 @@
 happy = "It's great to see you happy"
 nervous = "Take a deep breath 3 times"
-sad = "Go get drunk"
-excited =  "Take a chill pill, or did you take another kind of pill?"
-relaxed = "You should slow down on the pot"
+sad = "Go sit outside and have a banana"
+excited =  "Too much of the good stuff?"
+relaxed = "Muy bien"
 mood = sad
 
 if(mood == happy): print(happy)
